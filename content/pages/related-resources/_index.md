@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to related resources on software as a service,
+  Ruby, Ruby on Rails, HTML, CSS, Git, and Github.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

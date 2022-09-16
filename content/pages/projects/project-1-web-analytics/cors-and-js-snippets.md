@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides examples of CORS and JavaScript snippets for use
+  with the course projects.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Project 1: Web Analytics'

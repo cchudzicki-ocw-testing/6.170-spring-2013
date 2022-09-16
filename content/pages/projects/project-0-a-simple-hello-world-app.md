@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the first introductory project of the
+  course, including an overview, deliverables, and hints.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

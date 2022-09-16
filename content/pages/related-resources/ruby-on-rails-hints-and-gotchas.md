@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides tips on using the Ruby on Rails web application
+  framework.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources
